@@ -1,19 +1,19 @@
 {
-  "name": "homebridge-gree-ac",
-  "displayName": "GREE Air Conditioner",
+  "name": "hb-gree-ac",
+  "displayName": "GREE AC",
   "type": "module",
   "version": "2.3.2",
   "private": false,
   "description": "Control GREE Air Conditioners from Homebridge",
   "author": "Peter Eiben",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/eibenp/homebridge-gree-airconditioner#readme",
+  "homepage": "https://github.com/marcuscosinus/hb-gree-ac#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eibenp/homebridge-gree-airconditioner.git"
+    "url": "https://github.com/marcuscosinus/hb-gree-ac"
   },
   "bugs": {
-    "url": "https://github.com/eibenp/homebridge-gree-airconditioner/issues"
+    "url": "https://github.com/marcuscosinus/hb-gree-ac"
   },
   "keywords": [
     "homebridge-plugin",
