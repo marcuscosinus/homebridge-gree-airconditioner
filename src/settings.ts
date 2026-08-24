@@ -2,12 +2,12 @@ import commands from './commands.js';
 /**
  * This is the name of the platform that users will use to register the plugin in the Homebridge config.json
  */
-export const PLATFORM_NAME = 'GREEAirConditioner';
+export const PLATFORM_NAME = 'GREEAC';
 
 /**
  * This must match the name of your plugin as defined the package.json `name` property
  */
-export const PLUGIN_NAME = 'homebridge-gree-ac';
+export const PLUGIN_NAME = 'hb-gree-ac';
 
 export const MODIFY_VERTICAL_SWING_POSITION = {
   never: 0,
